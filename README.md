@@ -14,5 +14,8 @@ Please fork this repository and follow along **using your fork** as the instruct
 
 ## Setup Continuous Deployment from GitHub to Heroku
 
-- make the port dynamic
--
+- Make the port dynamic in index.js
+- Create a start script of 'node index.js'
+- Create app on Heroku
+- Connect to the repository via GitHub
+- Pick a branch to deploy, enable automatic deployment
